@@ -1,0 +1,14 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+a{
+    color: white;
+}
+
+input {
+   
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
